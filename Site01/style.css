@@ -48,6 +48,7 @@ nav a:hover {
     background-color: var(--Color04);
     color: var(--Color05);
     transition: 0.5s;
+    transition-timing-function: ease-in-out;
 }
 
 body {
@@ -66,7 +67,7 @@ main {
 main h1 {
     margin: 20px 0px 50px 0px;
     color: var(--Color05);
-    font: bold 4em var(--fonte-destaque);
+    font: bold 3em var(--fonte-destaque);
     text-align: center;
     text-transform: uppercase;
 }
@@ -74,8 +75,9 @@ main h1 {
 main h2 {
     margin: 30px 0px;
     color: var(--Color04);
-    font: normal 2.5em var(--fonte-destaque);
+    font: normal 2em var(--fonte-destaque);
     text-transform: uppercase;
+    text-decoration: underline;
 }
 
 main p {
