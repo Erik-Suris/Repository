@@ -48,7 +48,7 @@ nav a:hover {
     background-color: var(--Color04);
     color: var(--Color05);
     transition: 0.5s;
-    transition-timing-function: ease-in-out;
+    transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 body {
