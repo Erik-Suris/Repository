@@ -1,6 +1,6 @@
 ## Erik Suris
 
-<a href="https://erik-suris.github.io/Repository/" target="_blank">Executar site01</a>
+Executar site01 [GitHub Pages](https://pages.github.com/)
 
 You can use the [editor on GitHub](https://github.com/Erik-Suris/Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
